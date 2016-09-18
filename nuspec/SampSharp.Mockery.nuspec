@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SampSharp.Mockery</id>
+    <title>SampSharp.Mockery</title>
+    <authors>Tim Potze</authors>
+    <owners>Tim Potze</owners>
+    <licenseUrl>https://raw.githubusercontent.com/ikkentim/SampSharp-mockery/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ikkentim/SampSharp-mockery</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library for making SampSharp wrapped objects unit-testable.</description>
+    <copyright>Copyright Tim Potze 2016</copyright>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="SampSharp.Mockery.dll" target="lib/net45" />
+    <file src="SampSharp.Mockery.xml" target="lib/net45" />
+  </files>
+</package>
