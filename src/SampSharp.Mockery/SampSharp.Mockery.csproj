@@ -44,7 +44,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Callback.cs" />
+    <Compile Include="FakeNative.cs" />
+    <Compile Include="FakeNativeLoader.cs" />
+    <Compile Include="FakeNativeObject.cs" />
+    <Compile Include="FakeNativeObjectDefinition.cs" />
+    <Compile Include="FakeNativeReturnBehavior.cs" />
+    <Compile Include="FakeNativeValue.cs" />
+    <Compile Include="FakePlayerDefinition.cs" />
+    <Compile Include="MockeryException.cs" />
+    <Compile Include="Parameter.cs" />
+    <Compile Include="ParameterType.cs" />
+    <Compile Include="ParameterTypeAttribute.cs" />
+    <Compile Include="ParameterTypes.cs" />
+    <Compile Include="ServerImitator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
